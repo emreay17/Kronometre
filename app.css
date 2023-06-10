@@ -1,0 +1,27 @@
+body{
+    color: #b0a6a6;
+}
+
+h1{
+    text-align: center;
+    padding:50px;
+    font-size: 5rem;
+    color: blueviolet;
+    border: 1px , white;
+    
+
+}
+.butons{
+text-align: center;
+
+
+
+}
+
+.spans{
+    font-size:60px;
+    color: blue;
+    font-size: x-large;
+    margin-top: 5%;
+    text-align: center;   
+}
